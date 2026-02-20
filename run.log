@@ -1,0 +1,7 @@
+2026-02-20 17:50:22,873 - INFO - Job started
+2026-02-20 17:50:22,874 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-20 17:50:22,878 - INFO - Data loaded: 6 rows
+2026-02-20 17:50:22,878 - INFO - Rolling mean calculated with window=5
+2026-02-20 17:50:22,879 - INFO - Signals generated
+2026-02-20 17:50:22,879 - INFO - Metrics: signal_rate=0.3333, rows_processed=6
+2026-02-20 17:50:22,880 - INFO - Job completed successfully in 6ms
